@@ -23,7 +23,7 @@ list1=[1,2,3]
 list2=["hello",'hi','how are you']
 list1.extend(list2)
 list1.append(5)
-list1.insert(2,'saurabh')
+list1.insert(2,'saurabh kumar')
 list1.remove(3)
 print(list2)
 list2.clear();
