@@ -1,7 +1,7 @@
 from math import *   #this lines imports all the functions of math class
 
 name='saurabh'
-age=19
+age=20
 print("hello I am 7",100)
 print(name+' is nice and'+' his age is ',age) #conactenating string with int gives error so we use , 
 
