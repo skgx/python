@@ -11,3 +11,6 @@ info={'name':'saurabh','age':'20'}
 student_ingo(courses,info)
 
 student_ingo(*courses,**info)
+student_ingo(*courses,**info)
+
+print("saurabh")
