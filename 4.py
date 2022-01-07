@@ -6,7 +6,7 @@ def student_ingo(*args, **kwargs):
     print(args)
     print(kwargs)
 
-courses=['maths','history','science']
+courses=['maths','history','science'] 
 info={'name':'saurabh','age':'20'}
 student_ingo(courses,info)
 
