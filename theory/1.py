@@ -13,6 +13,7 @@ message2='{},{}.welcome!'.format(greeting,mess) #{} are the placeholders for the
 message3=f'{greeting},{mess.upper()}.Welcome!'
 print(message2)
 print(message3)
+print("HI")
 
 print(dir(greeting)) #this will print the various methods that can be used for that variable
 
