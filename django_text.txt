@@ -1,0 +1,20 @@
+STEPS TO CREATE A DJANGO PROJECT
+
+1.) create a folder with project name
+2.) go into that folder using cd folder_name
+3.) create a virtual environment :
+	$ python -m venv environment_name
+	
+4.)Go into the created environment_name by activating the environment:
+	$ environment_name\Scripts\activate
+	
+5.)Install django and other packages into it
+
+
+	example:
+	
+	λ cd users\saura\documents\django_learn
+
+    λ env\Scripts\activate
+
+    (env) λ pip install django
