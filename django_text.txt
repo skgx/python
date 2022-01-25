@@ -18,3 +18,9 @@ STEPS TO CREATE A DJANGO PROJECT
     λ env\Scripts\activate
 
     (env) λ pip install django
+	
+6.) craete a django app using:
+	$django-admin startproject project_name
+	
+#A django app named "project_name" is created in the "folder_name" and we can open it up in any code editor
+	
