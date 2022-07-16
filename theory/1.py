@@ -10,7 +10,7 @@ greeting='hello '
 mess='how are you'
 
 message2='{},{}.welcome!'.format(greeting,mess) #{} are the placeholders for the variable
-message3=f'{greeting},{mess.upper()}.Welcome!'
+message3=f'{greeting},{mess.upper()}.Welcome!'# faster than .format method
 print(message2)
 print(message3)
 print("HI")
