@@ -1,5 +1,5 @@
 message="hello world"
-print(message.find("world"))
+print(message.find("world")) #6
 
 message.replace('world','universe') #this does not change the original message
 print(message) #this will print the original one only

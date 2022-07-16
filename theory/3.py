@@ -15,6 +15,6 @@ for index,num in enumerate(nums): #this returns the index with the values
     print(index,num)
 
 alpha_join=','.join(alpha) #returns the content of list separated by ,
-print(num_join)
+print(alpha_join)
 
 #lists are mutable and tuples are immutable
