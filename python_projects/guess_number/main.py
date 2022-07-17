@@ -3,7 +3,8 @@ import random
 def guess(x):
     random_num=random.randint(1,x)
     guess=0
-
+    # The randint() method returns an integer number selected element 
+    # from the specified range.
     while guess!=random_num:
         guess=int(input(f"guess a number between 1 and {x}:"))
         if guess<random_num:
